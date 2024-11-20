@@ -1,0 +1,10 @@
+/* quillCustomStyles.css */
+.custom-quill .ql-container {
+    @apply h-24 !important;
+    /* Tailwind class for height */
+}
+
+.custom-quill .ql-editor {
+    @apply min-h-full;
+    /* Full height for the editor */
+}

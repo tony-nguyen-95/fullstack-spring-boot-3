@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Asm3Application<asm3>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.asm.asm3.Asm3Application",
+      "projectName": "asm3",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

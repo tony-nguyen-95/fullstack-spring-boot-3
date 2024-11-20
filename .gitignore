@@ -1,0 +1,16 @@
+# Node modules
+asm3_fe_client/node_modules/
+asm3_fe_admin/node_modules/
+
+# Build outputs
+asm3_fe_client/build/
+asm3_fe_admin/build/
+asm3_be/target/
+
+# IDE files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
